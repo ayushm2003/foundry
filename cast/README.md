@@ -37,8 +37,8 @@
 - [x] `chain-id`
 - [x] `code`
 - [ ] `debug`
-- [ ] `estimate`
-- [ ] `etherscan-source`
+- [x] `estimate`
+- [x] `etherscan-source`
 - [ ] `events`
 - [x] `gas-price`
 - [ ] `index`
